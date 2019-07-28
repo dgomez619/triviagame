@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/bg2.jpg");
+    background-position: center;
+    font-family:  'Metal Mania', cursive;
+    }
+
+.container{
+    opacity: 0.5;
+    text-align: center;
+    }
+
+h1{
+    font-size: 80px;
+}
+
+#game{
+    /* opacity: 1;
+    color: red; */
+}
+
+h4{
+    font-size: 50px;
+    opacity: 1;
+    color: red;
+}
+
+.choice{
+    font-size: 40px;
+    color: red;
+    opacity: 1;
+    border: 1px solid lightgrey;
+    padding: 30px; 
+    border-radius: 4px;
+    cursor: pointer;
+}
